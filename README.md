@@ -1,3 +1,3 @@
 strip-reader
 ============
-HTML5 inplementation of a lateral flow strip-reader for reading TB diagnositc strips.
+HTML5 implementation of a lateral flow strip-reader for reading TB diagnositc strips.
